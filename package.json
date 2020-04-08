@@ -1,0 +1,17 @@
+{
+  "name": "learn_book",
+  "version": "1.0.0",
+  "description": "学习笔记",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "学习笔记"
+  ],
+  "author": "chenwei",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.4.0"
+  }
+}
