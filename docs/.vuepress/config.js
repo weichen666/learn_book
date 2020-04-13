@@ -1,6 +1,6 @@
 module.exports = {
     title: '学习笔记',
-	base: 'learn_book',
+	base: '/learn_book/',
     description: '记录个人的学习笔记',
     plugins: ['@vuepress/back-to-top'],
     themeConfig: {
@@ -76,7 +76,8 @@ module.exports = {
                 '',
                 '001_行业介绍',
                 '002_Linux简介',
-                '003_Linux安装'
+                '003_Linux安装',
+                '004_Linux服务器管理建议'
             ]
 
 
